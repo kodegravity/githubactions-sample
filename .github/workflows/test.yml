@@ -1,4 +1,9 @@
-name: test workflow
+name: TEST WORKFLOW
 
 on:
-  jobs:
+  push:
+    branches:
+      - master
+
+jobs:
+
