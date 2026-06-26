@@ -1,2 +1,4 @@
-  on:
+name: test workflow
+
+on:
   jobs:
